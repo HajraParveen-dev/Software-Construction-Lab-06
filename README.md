@@ -3,10 +3,15 @@
 ## Course Information
 
 **Course:** Software Constructions and Development
+
 **Department:** Software Engineering
+
 **University:** University of Engineering & Technology (UET), Peshawar, Pakistan
+
 **Instructor:** Engr. Rizwan Shah
+
 **Lab:** 06
+
 **Topic:** Abstract Data Types (ADT)
 
 ---
@@ -14,6 +19,7 @@
 ## Student Information
 
 **Student Name:** Hajra Parveen
+
 **Registration No:** 24ABSWE0029
 
 ---
@@ -279,8 +285,11 @@ Overall, this lab strengthened my practical understanding of abstraction, encaps
 ## Author
 
 **Hajra Parveen**
+
 **Registration No:** 24ABSWE0029
+
 **Department:** Software Engineering
+
 **University of Engineering & Technology, Peshawar**
 
 ---
